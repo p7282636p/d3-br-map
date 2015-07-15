@@ -1,5 +1,5 @@
 # d3-br-map
-This is a bare Brazil map rendered using d3js:
+This is a bare Brazil map rendered with d3js.
 
 ![Preview of Brazil map rendered with d3j](https://github.com/vgrocha/d3-br-map/raw/master/preview.png)
 

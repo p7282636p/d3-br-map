@@ -15,4 +15,4 @@ http-server
 *Notice: there are some states that have the wrong postal field, namely Acre and Rondonia. I have already filed a correction to http://www.naturalearthdata.com/*  
 
 
-**Keyword:** brazil, brasil, d3, d3js
+**Keyword:** Brasil, Brazil, brazil, brasil, d3, d3js

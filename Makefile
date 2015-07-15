@@ -1,3 +1,7 @@
+all: build/br.json
+
+clean:
+	rm -rf build/
 
 build/ne_50m_admin_1_states_provinces_lakes.zip:
 	mkdir -p $(dir $@)
